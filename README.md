@@ -1,2 +1,8 @@
-# Bank-Term-Deposit-Predictor
-Here’s a 300-character GitHub description:  > A Streamlit web app that predicts whether a bank customer will subscribe to a term deposit using a Decision Tree Classifier. Built using the Bank Marketing Dataset (UCI ML Repo), the app provides a simple UI to explore predictions based on demographic and behavioral data.
+# 🧠 Bank Term Deposit Predictor
+
+A simple Streamlit web application that predicts whether a bank customer will subscribe to a term deposit based on their demographic and behavioral data. This project uses a **Decision Tree Classifier** and the **Bank Marketing Dataset** from the UCI Machine Learning Repository.
+
+## 🚀 Demo
+Run the app locally:
+```bash
+streamlit run streamlit_app.py
