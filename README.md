@@ -42,6 +42,7 @@ Display result and model accuracy
 
 🧾 Requirements
 Install dependencies:
+live app : https://bank-term-deposit-predictor-5veuv2ebkqkoamczfco7ia.streamlit.app/
 
 bash
 Copy
